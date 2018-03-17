@@ -23,6 +23,11 @@ email: gyurse@gmail.com # add your Email address
 discus-identifier: mr-brown # add your discus identifier
 
 
+# 페이지 구분을 하기 위한 코드 추가
+paginate: 1
+paginate_path: "blog/:num/"
+
+
 # Tracker
 analytics: # Google Analytics
 
