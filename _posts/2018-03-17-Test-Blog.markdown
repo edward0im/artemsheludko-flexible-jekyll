@@ -1,3 +1,20 @@
+---
+layout: default.hbs
+title: Early humans discovered...
+description: Lots of things, because they were early humans.
+date: 2013-07-04
+categories:
+- anthropology
+- unibrows
+- various wooly animals
+tags:
+- rocks
+- wheel
+- 30 inch wooden rims
+img: tigerk.png
+published: false
+---
+
 # Flexible-Jekyll is a simple and clean theme for Jekyll
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
@@ -17,22 +34,6 @@ The post page would look like this:
 ## Features
 
 - [Google Fonts](https://fonts.google.com/)
----
-layout: default.hbs
-title: Early humans discovered...
-description: Lots of things, because they were early humans.
-date: 2013-07-04
-categories:
-- anthropology
-- unibrows
-- various wooly animals
-tags:
-- rocks
-- wheel
-- 30 inch wooden rims
-published: false
----
-
 - [Font Awesome](http://fontawesome.io/)
 - [Disqus](https://disqus.com/)
 - [Analytics](https://analytics.google.com/analytics/web/)
