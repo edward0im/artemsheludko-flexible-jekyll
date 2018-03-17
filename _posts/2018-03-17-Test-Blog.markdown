@@ -12,7 +12,6 @@ tags:
 - wheel
 - 30 inch wooden rims
 img: tigerk.png
-published: false
 ---
 
 # Flexible-Jekyll is a simple and clean theme for Jekyll
