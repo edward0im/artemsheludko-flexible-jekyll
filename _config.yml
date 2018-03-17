@@ -1,4 +1,4 @@
-title: Edward Im\'s Blog
+title: Edward Im`s Blog
 
 description: > # this means to ignore newlines until "baseurl:"
     Hello guys :-)
@@ -12,7 +12,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Edward Im # add your name
 author-img: tigerk.png # add your photo
-about-author: Edward\'s blog :-) # add description
+about-author: Edward`s blog :-) # add description
 twitter: # add your Twitter handle
 facebook: tigerk0430 # add your Facebook handle
 github: lockdpwn # add your Github handle
