@@ -9,6 +9,7 @@ var browserSync = require('browser-sync');
 
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 
+
 // Build the Jekyll Site
 gulp.task('jekyll-build', function (done) {
     return cp.spawn( jekyll , ['build'], {stdio: 'inherit'})
@@ -19,6 +20,7 @@ gulp.task('jekyll-build', function (done) {
 gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
     browserSync.reload();
 });
+
 
 // Wait for jekyll-build, then launch the Server
 gulp.task('browser-sync', ['sass', 'img', 'jekyll-build'], function() {
