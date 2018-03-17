@@ -10,14 +10,14 @@ baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: Edward Im # add your name
-author-img: tigerk.png # add your photo
+author: Edward Im
+author-img: tigerk.png 
 about-author: Edward`s blog :-) # add description
 twitter: # add your Twitter handle
-facebook: tigerk0430 # add your Facebook handle
-github: lockdpwn # add your Github handle
-linkedin: # add your Linkedin handle
-email: gyurse@gmail.com # add your Email address
+facebook: tigerk0430 
+github: tigerk0430 
+linkedin: 
+email: gyurse@gmail.com 
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
