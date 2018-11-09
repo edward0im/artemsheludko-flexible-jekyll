@@ -1,5 +1,5 @@
 ---
-layout: default.hbs
+layout: post
 title: Convex Optimization 정리
 description: 
 date: 2018-11-09
