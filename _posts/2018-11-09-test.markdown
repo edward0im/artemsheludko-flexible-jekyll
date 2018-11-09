@@ -1,16 +1,12 @@
 ---
 layout: post
-title: Convex Optimization 정리
+title: Testing github.io
 description: 
 date: 2018-11-09
 categories:
-- Optimization
-- Linear System
-- Convex 
+- Testing some features of github.io
 tags:
-- Convex
-- Optimize
-- Optimization
+- Testing
 img: tigerk.png
 use_math: true
 ---
