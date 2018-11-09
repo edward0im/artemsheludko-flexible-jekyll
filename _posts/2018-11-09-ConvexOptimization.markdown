@@ -11,7 +11,7 @@ tags:
 - Convex
 - Optimize
 - Optimization
-img: 
+img: tigerk.png
 ---
 
 # Flexible-Jekyll is a simple and clean theme for Jekyll
