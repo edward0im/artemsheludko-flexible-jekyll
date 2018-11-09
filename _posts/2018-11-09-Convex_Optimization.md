@@ -4,8 +4,7 @@ title: Convex Optimization 정리
 description: 
 date: 2018-11-09
 categories:
-- Convex
-- Optimization
+- optimization
 tags:
 - Convex
 - Concave
