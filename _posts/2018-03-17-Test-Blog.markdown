@@ -1,17 +1,17 @@
 ---
 layout: default.hbs
-title: Early humans discovered...
-description: Lots of things, because they were early humans.
-date: 2018-03-17
+title: Convex Optimization 정리
+description: 
+date: 2018-11-09
 categories:
-- anthropology
-- unibrows
-- various wooly animals
+- Optimization
+- Linear System
+- Convex 
 tags:
-- rocks
-- wheel
-- 30 inch wooden rims
-img: tigerk.png
+- Convex
+- Optimize
+- Optimization
+img: 
 ---
 
 # Flexible-Jekyll is a simple and clean theme for Jekyll
